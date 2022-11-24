@@ -126,10 +126,10 @@ const styles = StyleSheet.create({
     flex: 1
   },
   titulo: {
-    fontWeight: 'bold',
     fontSize: 25,
     marginVertical: 20,
-    color: 'black'
+    color: 'black',
+    fontFamily: 'Poppins-Regular'
   },
   contenedor: {
     marginHorizontal: 10,
